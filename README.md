@@ -1,1 +1,1 @@
-# python-stochastic-methods
+# Stochastic Methods Implemented in Python
